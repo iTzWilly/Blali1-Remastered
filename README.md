@@ -1,8 +1,8 @@
-# Blali1-Remastered
-Blali1-Remastered entwickelt in Gamemaker 8.2
+# Kaizo-Blali
+Modded Version von Blali 1 in Gamemaker 8.2 
 
 ## Warum mehrere Blali Dateien?
-Blali.gmk ist das Original Blali Spiel, während Blali.gm81 eine Neu-Entwicklung ist
+Blali.gmk ist das Original Blali Spiel, während Blali.gm81 die Modversion ist
 
 ## Gamemaker 8.2
 Um überhaupt die Blali 1 Spiele zum Laufen zu bringen, benötigt man den Gamemaker 8.2
