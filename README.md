@@ -1,5 +1,6 @@
 # Kaizo-Blali
 Modded Version von Blali 1 in Gamemaker 8.2 
+![alt text](image.png)
 
 ## Warum mehrere Blali Dateien?
 Blali.gmk ist das Original Blali Spiel, während Blali.gm81 die Modversion ist
