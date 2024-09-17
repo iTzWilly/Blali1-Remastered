@@ -1,5 +1,6 @@
 # Kaizo-Blali
 Modded Version von Blali 1 in Gamemaker 8.2 
+[Link zum Download (Nach unten Scrollen)](https://github.com/iTzWilly/Kaizo-Blali/releases/tag/v0.1.0-alpha) 
 ![alt text](image.png)
 
 ## Warum mehrere Blali Dateien?
